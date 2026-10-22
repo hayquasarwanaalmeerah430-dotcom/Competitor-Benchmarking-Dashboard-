@@ -1,0 +1,38 @@
+{
+  "kpis": {
+    "n_competitors": 3,
+    "avg_cost": 3333,
+    "min_cost": 1500,
+    "max_cost": 5500,
+    "spread_x": 3.7,
+    "avg_rating": 4.43,
+    "total_followers": 87900,
+    "cheapest": "SkillBridge Interns",
+    "priciest": "TechPulse Academy",
+    "engagement_leader": "TechPulse Academy",
+    "rating_leader": "TechPulse Academy",
+    "value_leader": "TechPulse Academy"
+  },
+  "recommendations": [
+    [
+      "Own the PKR 3,000-PKR 5,500 price gap",
+      "The biggest price gap in the market sits between CodeNest Virtual (PKR 3,000) and TechPulse Academy (PKR 5,500). A new program with TechPulse Academy-level breadth (live sessions, LOR, 8+ domains) priced inside this gap undercuts the premium player while out-delivering the budget options."
+    ],
+    [
+      "Consider a freemium funnel like SkillBridge",
+      "SkillBridge Interns charges PKR 0 for the program and monetizes via the certificate (PKR 1,500) \u2014 the lowest entry barrier in the market, paired with a solid 27,700 followers. A free entry tier monetized through certification converts reach into revenue."
+    ],
+    [
+      "Justify premium pricing with outcomes, not just hours",
+      "TechPulse Academy (PKR 5,500) is the only competitor offering a stipend, and leads on domains, tasks, followers and rating (4.6). Premium pricing holds when it is backed by visible outcomes (stipend, most tasks) and trust signals (520 reviews)."
+    ],
+    [
+      "Make LinkedIn the primary channel",
+      "Two of three competitors draw 60%+ of their audience from LinkedIn (SkillBridge Interns 66.8%, TechPulse Academy 62.5%), and posting frequency tracks audience size (7 posts/week -> 40,000 followers). Publish 5-7x per week on LinkedIn to build reach."
+    ],
+    [
+      "Stay under ~PKR 650 per week unless differentiated",
+      "Market cost-per-week spans PKR 375 (SkillBridge Interns) to PKR 687 (TechPulse Academy). Pricing above the top of this band needs a clear differentiator (stipend, placement support, live mentorship)."
+    ]
+  ]
+}
